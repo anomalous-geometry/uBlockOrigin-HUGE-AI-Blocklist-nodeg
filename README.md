@@ -322,8 +322,6 @@ Below is a small list of **optional** regular expressions that can be used to fi
 
 - [ ] Startpage, Ecosia, Brave support (for uBlock Origin)
 
-## Happy Pride Month!
-LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
 ## Special Thanks
 
